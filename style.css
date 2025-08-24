@@ -119,6 +119,7 @@ select {
 
 .line {
     /* Стили для линии */
+    margin: 60px 0px;
 }
 
 table {
