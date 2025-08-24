@@ -33,6 +33,9 @@ header span {
 
 .main-title {
     /* Стили для заголовка в первой секции */
+    font-size: 36px;
+    margin-bottom: 20px ;
+    font-weight: bold ;
 }
 
 .main-text {
