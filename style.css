@@ -40,6 +40,8 @@ header span {
 
 .main-text {
     /* Стили для текста в первой секции */
+    font-weight: normal;
+    font-size: 18px;
 }
 
 .main-image {
