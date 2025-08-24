@@ -52,6 +52,8 @@ header span {
 
 .about-section {
     /* Стили для второй секции */
+    background-color: #000;
+    padding: 100px 0px;
 }
 
 select {
