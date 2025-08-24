@@ -14,10 +14,14 @@ body {
 
 header {
     /* Стили для хедера */
+    background-color: #2965F1;
 }
 
 header span {
     /* Стили для текста в хедере IT-INCUBATOR */
+    font-size: 20px;
+    font-weight:  700;
+    color: #fff;
 }
 
 .main-section {
