@@ -83,6 +83,9 @@ select {
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
+    font-weight: 400;
+    font-size: 16px;
+    padding: 0px 20px;
 
 }
 
