@@ -26,7 +26,10 @@ header span {
 
 .main-section {
     /* Стили для первой секции */
-}
+    background-color: rgb(0,0,0);
+    padding: 300px;
+    min-height: 60px 0px;
+} 
 
 .main-title {
     /* Стили для заголовка в первой секции */
