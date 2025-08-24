@@ -76,13 +76,21 @@ select {
 
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
-        font-weight: 400;
+    font-weight: 400;
     font-size: 16px;
     padding: 0px 20px;
 }
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 300px;
+    height: 40px;
+    background-color: #fff;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 16px;
 }
 
 .label {
