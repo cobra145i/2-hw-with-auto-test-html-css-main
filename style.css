@@ -58,6 +58,13 @@ header span {
 
 select {
     /* Стили для выпадающего списка */
+    border: 1px solid #000;
+    border-radius: 5px;
+    width: 200px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    background-repeat: no-repeat;
 }
 
 .section-title {
